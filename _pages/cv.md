@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in Testing Science, Testing University, 2012
-* M.S. in Testonomy, Testing University, 2014
-* Ph.D in Testology, Testing University, 2017 (expected)
+* BPharm Pharmacy, University College Cork, 2011
+* MPharm Pharmacy, Royal College of Surgeons, 2012
+* MSc. Digital Health, Cork University Business School, 2020
 
 Work experience
 ======
